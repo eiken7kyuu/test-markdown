@@ -79,3 +79,7 @@ graph LR;
 $$
 \dfrac{a}{b}
 $$
+
+$$
+h(x) = \dfrac{1}{1 + exp(-x)}
+$$
