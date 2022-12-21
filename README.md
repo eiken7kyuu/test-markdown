@@ -54,6 +54,11 @@ ANDだけでなく、NANDもORもパーセプトロンで表現可能。
 
 ## 3章 ニューラルネットワーク
 
+$\sqrt{3x-1}+(1+x)^2$aaaa
+
+aaa$\sqrt{3x-1}+(1+x)^2$
+
+aaa $\sqrt{3x-1}+(1+x)^2$ adddd
 
 ```mermaid
 graph LR;
